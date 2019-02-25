@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a215620-3c1b-4242-ad34-f7c49599f79f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../api_example/languages/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api_example/languages/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api_example/send.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/books_management.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../profiles_rest_api/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../profiles_rest_api/.idea/markdown-navigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_authentication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project_authentication/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stock_market/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stock_market/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stock_market/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stock_market/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stock_market/.idea/stock_market.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../stock_market/.idea/stock_market.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stock_market/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stock_market/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stock_market/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stock_market/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stock_market/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/../stock_market/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stock_market/stock_info/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../stock_market/stock_info/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stock_market/stock_info/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../stock_market/stock_info/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stock_market/stock_info/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../stock_market/stock_info/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stock_market/stock_info/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../stock_market/stock_info/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stock_market/stock_market/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../stock_market/stock_market/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stock_market/stock_market/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../stock_market/stock_market/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stock_market/stock_market/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/../stock_market/stock_market/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stock_market/templates/stock_info/stock_base.html" beforeDir="false" afterPath="$PROJECT_DIR$/../stock_market/templates/stock_info/stock_base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stock_market/templates/stock_info/stock_detail_view.html" beforeDir="false" afterPath="$PROJECT_DIR$/../stock_market/templates/stock_info/stock_detail_view.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stock_market/templates/stock_info/stock_list_view.html" beforeDir="false" afterPath="$PROJECT_DIR$/../stock_market/templates/stock_info/stock_list_view.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stock_market/templates/user_info/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/../stock_market/templates/user_info/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stock_market/templates/user_info/registration.html" beforeDir="false" afterPath="$PROJECT_DIR$/../stock_market/templates/user_info/registration.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stock_market/user_info/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../stock_market/user_info/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stock_market/user_info/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/../stock_market/user_info/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stock_market/user_info/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../stock_market/user_info/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stock_market/user_info/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/../stock_market/user_info/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stock_market/user_info/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../stock_market/user_info/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stock_market/user_info/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../stock_market/user_info/views.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/readme.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="867" />
+    <option name="height" value="721" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="books_management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="books_management" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="books_management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="books_management" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="books_management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="books_management" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="books_management" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="books_management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="books_management" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="books_management" type="462c0819:PsiDirectoryNode" />
+              <item name="books_management" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="add_unversioned_files" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="867" height="722" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26950353" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="68">
+            <caret line="4" selection-start-line="4" selection-end-line="4" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
