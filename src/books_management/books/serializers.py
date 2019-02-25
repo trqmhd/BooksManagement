@@ -15,7 +15,6 @@ class BookStoreSerializer(serializers.ModelSerializer):
                 author      = validated_data['author'],
                 isbn        = validated_data['isbn'],
                 publication = validated_data['publication']
-
             )
             book.save()
             return book

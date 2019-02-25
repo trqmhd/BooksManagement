@@ -44,10 +44,10 @@ class UserProfile(AbstractBaseUser, PermissionsMixin):
         return self.email
 
 class BookStore(models.Model):
-    title       = models.CharField(max_length=255)
-    author      = models.CharField(max_length=255)
+    title       = models.CharField(max_length=10, default=True)
+    author      = models.CharField(max_length=10, default=True)
     isbn        = ISBNField(default=True)
-    publication = models.CharField(max_length=255)
+    publication = models.CharField(max_length=255, default=True)
     created_on  = models.DateTimeField(auto_now_add=True)
 
 
