@@ -7,7 +7,7 @@
       <change afterPath="$PROJECT_DIR$/../api_example/send.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../profiles_rest_api/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../profiles_rest_api/.idea/markdown-navigator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/books_management/books_management/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/books_management/books_management/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/books_management/books/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/books_management/books/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../project_authentication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project_authentication/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../stock_market/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stock_market/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../stock_market/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stock_market/.idea/misc.xml" afterDir="false" />
@@ -54,11 +54,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/books_management/books/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+            <state relative-caret-position="216">
+              <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -66,11 +66,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/books_management/books_management/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+            <state relative-caret-position="435">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <element signature="e#650#691#0" expanded="true" />
               </folding>
@@ -167,9 +167,9 @@
         <option value="$PROJECT_DIR$/src/books_management/books/serializers.py" />
         <option value="$PROJECT_DIR$/src/books_management/books/models.py" />
         <option value="$PROJECT_DIR$/src/books_management/books/urls.py" />
-        <option value="$PROJECT_DIR$/src/books_management/books/views.py" />
         <option value="$PROJECT_DIR$/src/books_management/books_management/settings.py" />
         <option value="$PROJECT_DIR$/src/books_management/books_management/urls.py" />
+        <option value="$PROJECT_DIR$/src/books_management/books/views.py" />
       </list>
     </option>
   </component>
@@ -320,7 +320,7 @@
     <frame x="0" y="23" width="1280" height="720" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.18268467" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18268467" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Version Control" order="1" />
@@ -425,22 +425,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/books_management/books/views.py">
+    <entry file="file://$PROJECT_DIR$/src/books_management/books_management/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+        <state relative-caret-position="435">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
           <folding>
-            <element signature="e#0#35#0" expanded="true" />
+            <element signature="e#650#691#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/books_management/books_management/urls.py">
+    <entry file="file://$PROJECT_DIR$/src/books_management/books/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+        <state relative-caret-position="216">
+          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
           <folding>
-            <element signature="e#650#691#0" expanded="true" />
+            <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>

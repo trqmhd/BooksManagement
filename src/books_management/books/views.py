@@ -1,8 +1,14 @@
-from django.shortcuts import render
+from django.shortcuts import render, HttpResponse
 from rest_framework import viewsets, status, filters
 from rest_framework.response import Response
 from . import serializers
 from . import models
+
+
+"""def home_view(request):
+    output = " <html> <em> Book Management </em> </html> "
+    return HttpResponse(output)
+"""
 
 # Create your views here.
 class BooksViewSet(viewsets.ModelViewSet):
