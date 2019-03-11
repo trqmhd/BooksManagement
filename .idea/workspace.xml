@@ -7,10 +7,7 @@
       <change afterPath="$PROJECT_DIR$/../api_example/send.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../profiles_rest_api/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../profiles_rest_api/.idea/markdown-navigator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/books_management/books/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/books_management/books/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/books_management/books_management/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/books_management/books_management/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/books_management/books_management/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/books_management/books_management/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../project_authentication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project_authentication/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../stock_market/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stock_market/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../stock_market/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stock_market/.idea/misc.xml" afterDir="false" />
@@ -72,8 +69,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/books_management/books_management/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="363">
+              <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
               <folding>
                 <element signature="e#650#691#0" expanded="true" />
               </folding>
@@ -169,14 +166,14 @@
         <option value="$PROJECT_DIR$/readme.md" />
         <option value="$PROJECT_DIR$/src/books_management/books/serializers.py" />
         <option value="$PROJECT_DIR$/src/books_management/books/models.py" />
-        <option value="$PROJECT_DIR$/src/books_management/books_management/urls.py" />
         <option value="$PROJECT_DIR$/src/books_management/books/urls.py" />
         <option value="$PROJECT_DIR$/src/books_management/books/views.py" />
         <option value="$PROJECT_DIR$/src/books_management/books_management/settings.py" />
+        <option value="$PROJECT_DIR$/src/books_management/books_management/urls.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="720" />
@@ -320,7 +317,7 @@
     <configuration />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="720" extended-state="1" />
+    <frame x="0" y="23" width="1280" height="720" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.18268467" />
@@ -440,8 +437,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/books_management/books_management/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="363">
+          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
           <folding>
             <element signature="e#650#691#0" expanded="true" />
           </folding>
